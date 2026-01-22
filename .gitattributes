@@ -1,3 +1,4 @@
 *.pth filter=lfs diff=lfs merge=lfs -text
 data/** filter=lfs diff=lfs merge=lfs -text
 patch_pics/** filter=lfs diff=lfs merge=lfs -text
+*.ipynb linguist-language=Python

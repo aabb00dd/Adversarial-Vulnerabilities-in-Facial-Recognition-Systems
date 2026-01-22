@@ -48,8 +48,3 @@ Adversarial patches were printed and physically applied to a subject’s face to
 - Adversarial patches pose a realistic threat but are less reliable in physical settings  
 - **Adversarial training** provided the strongest defense and even improved clean accuracy  
 - Combining defenses did not outperform adversarial training alone  
-
----
-
-## Repository Structure
-
